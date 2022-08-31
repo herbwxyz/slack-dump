@@ -31,3 +31,7 @@ dist/
 
 # Dependency directories
 vendor/
+
+# User
+.DS_Store
+*/.DS_Store
